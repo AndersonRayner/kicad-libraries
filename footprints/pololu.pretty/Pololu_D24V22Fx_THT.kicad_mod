@@ -1,4 +1,4 @@
-(module Pololu_D24V22Fx_THT (layer F.Cu) (tedit 5F692917)
+(module Pololu_D24V22Fx_THT (layer F.Cu) (tedit 61CBC1A7)
   (descr "Pololu D24V22Fx series regulator footprint")
   (fp_text reference REF** (at 8.89 -5.08) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -18,7 +18,7 @@
   (pad 1 thru_hole circle (at 6.35 -1.27) (size 1.524 1.524) (drill 1.02) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 3.81 -1.27) (size 1.524 1.524) (drill 1.02) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 1.27 -1.27) (size 1.524 1.524) (drill 1.02) (layers *.Cu *.Mask))
-  (model ${KIPRJMOD}/../lib/kicad/3D_models/Pololu_D24V22F12.STEP
+  (model ${KIPRJMOD}/lib/kicad-libraries/3D_models/Pololu_D24V22F12.STEP
     (offset (xyz 8.65 9.1 2.54))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -90))

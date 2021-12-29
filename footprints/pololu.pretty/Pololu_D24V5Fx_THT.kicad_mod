@@ -1,4 +1,4 @@
-(module Pololu_D24V5Fx_THT (layer F.Cu) (tedit 5FDAB6CF)
+(module Pololu_D24V5Fx_THT (layer F.Cu) (tedit 61CBC19F)
   (fp_text reference REF** (at 0 -5.842) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -13,7 +13,7 @@
   (pad 3 thru_hole circle (at 1.27 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at -1.27 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at -3.81 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
-  (model C:/Users/matt/Documents/AFA/PCBs/lib/kicad/3D_models/Pololu_D24V5Fx.STEP
+  (model ${KIPRJMOD}/lib/kicad-libraries/3D_models/Pololu_D24V5Fx.STEP
     (offset (xyz 0 -1.27 2.54))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
