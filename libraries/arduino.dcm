@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RPiPico_Waveshare
+F https://www.waveshare.com/rp2040-zero.htm
+$ENDCMP
+#
+#End Doc Library
